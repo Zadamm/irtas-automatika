@@ -1,0 +1,4 @@
+os account:
+
+username: pi
+password: irtas
