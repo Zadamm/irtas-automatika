@@ -2,3 +2,6 @@ os account:
 
 username: pi
 password: irtas
+
+linux first commit 
+
